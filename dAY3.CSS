@@ -1,0 +1,29 @@
+#img1{
+    float: right;
+    border-radius: 90%;
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1497864149936-d3163f0c0f4b?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+.container{
+    color: white;
+}
+#head1{    margin-left: 40%;
+           width: 250px;
+         background-color: #94bbe9;
+        font-family: "Pacifico", cursive;
+        font-weight: 400;
+        font-style: normal;
+        
+        font-size: 50px;
+        border-width: 50px;
+       
+    
+     
+        background: rgb(196,1,126);
+        background: radial-gradient(circle, rgba(196,1,126,0.2358193277310925) 32%, rgba(0,0,0,1) 52%);
+}
+.a{
+    
+  
+}
